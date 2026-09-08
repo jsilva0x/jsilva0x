@@ -22,7 +22,7 @@ with digital forensics (Autopsy, The Hive) and encryption tools (VeraCrypt, Cryp
 
 industry certifications. Open to entry-level SOC / Cybersecurity Analyst roles.
 
-📫silva.jorge001@gmail.com | [LinkedIn]([your-linkedin-url](https://github.com/Riki2025
+📫silva.jorge001@gmail.com | 
 
 
 ))
